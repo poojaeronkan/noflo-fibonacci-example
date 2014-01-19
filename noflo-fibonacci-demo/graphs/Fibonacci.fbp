@@ -1,0 +1,5 @@
+# Get the value of the 6th number in the Fibonacci series
+'6' -> IN Fibonacci(fibonacci/Fibonacci)
+
+# Output the value
+Fibonacci() OUT -> IN Display(core/Output)

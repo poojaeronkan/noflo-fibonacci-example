@@ -1,0 +1,8 @@
+{
+  "name": "noflo-fibonacci-demo",
+  "version": "0.0.1",
+  "dependencies": {
+    "noflo": "~0.4.3",
+    "noflo-fibonacci" : "0.0.1"
+  }
+}
